@@ -22,7 +22,7 @@ export function TestimonialsSection() {
               <figure className="h-full rounded-lg border border-neutral-200 bg-neutral-50 p-7">
                 <Quote className="h-9 w-9 text-construction-yellow" />
                 <blockquote className="mt-5 text-lg font-semibold leading-8 text-construction-black">
-                  "{testimonial.quote}"
+                  &ldquo;{testimonial.quote}&rdquo;
                 </blockquote>
                 <figcaption className="mt-6 text-sm font-bold text-neutral-600">
                   {testimonial.author}

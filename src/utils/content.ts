@@ -7,7 +7,6 @@ import {
   LandPlot,
   MapPinned,
   MessagesSquare,
-  Pickaxe,
   Route,
   ShieldCheck,
   Truck,
