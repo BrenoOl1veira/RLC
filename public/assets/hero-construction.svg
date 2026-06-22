@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100" role="img" aria-label="Canteiro de obras com equipamentos pesados">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#2E2E2E"/><stop offset="1" stop-color="#111"/></linearGradient>
+    <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#FFC107"/><stop offset="1" stop-color="#FFB300"/></linearGradient>
+  </defs>
+  <rect width="1800" height="1100" fill="url(#sky)"/>
+  <path d="M0 770h1800v330H0z" fill="#1A1A1A"/>
+  <path d="M0 760c260-90 440-80 690-34 260 47 520 18 760-72 150-57 250-69 350-48v494H0z" fill="#242424"/>
+  <g opacity=".22" stroke="#fff" stroke-width="2">
+    <path d="M0 160h1800M0 300h1800M0 440h1800M0 580h1800"/>
+    <path d="M190 0v1100M390 0v1100M590 0v1100M790 0v1100M990 0v1100M1190 0v1100M1390 0v1100M1590 0v1100"/>
+  </g>
+  <g transform="translate(1050 520)">
+    <path d="M0 180h390l42 70H-40z" fill="#141414"/>
+    <rect x="50" y="78" width="250" height="110" rx="14" fill="url(#gold)"/>
+    <path d="M300 96h120l120 72-22 38-100-58H300z" fill="#FFC107"/>
+    <path d="M95 65h115l40 25H78z" fill="#1A1A1A"/>
+    <circle cx="85" cy="255" r="55" fill="#0b0b0b"/><circle cx="85" cy="255" r="25" fill="#555"/>
+    <circle cx="330" cy="255" r="55" fill="#0b0b0b"/><circle cx="330" cy="255" r="25" fill="#555"/>
+  </g>
+  <g transform="translate(620 420)">
+    <rect x="0" y="265" width="430" height="46" rx="10" fill="#101010"/>
+    <rect x="60" y="160" width="190" height="100" rx="16" fill="#FFC107"/>
+    <path d="M225 175l320-170 24 42-300 178z" fill="#FFB300"/>
+    <path d="M565 26l80 130h-64l-46-78z" fill="#1A1A1A"/>
+    <circle cx="98" cy="315" r="48" fill="#070707"/><circle cx="98" cy="315" r="20" fill="#666"/>
+    <circle cx="292" cy="315" r="48" fill="#070707"/><circle cx="292" cy="315" r="20" fill="#666"/>
+  </g>
+  <path d="M116 856h570l-52 64H80zM840 910h780l58 76H780z" fill="#FFC107" opacity=".78"/>
+</svg>
